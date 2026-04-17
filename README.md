@@ -2,6 +2,12 @@
 
 A complete Azure Lakehouse implementation using Delta Lake and PySpark to deliver analytics-ready datasets through a Star Schema model.
 
+## 📓 Notebooks
+
+- notebooks/01_bronze_ingestion.ipynb – Data ingestion and Bronze layer
+- notebooks/02_silver_transformations.ipynb – Data cleansing and transformations
+- notebooks/03_gold_star_schema.ipynb – Star schema (facts & dimensions)
+
 <img width="3341" height="2268" alt="Star Schema Diagram" src="https://github.com/user-attachments/assets/9427d9ff-0e77-4bcd-8c57-702130edaf88" />
 
 ## 🚲 Project Overview
