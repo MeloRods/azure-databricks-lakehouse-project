@@ -5,7 +5,7 @@
 - Notebooks/Gold - Tables Creation and Data Transformation.ipynb – Star schema (facts & dimensions)
 
 
-# Azure Lakehouse Analytics Project – Divvy Bikeshare
+# Azure Databricks Lakehouse Analytics Project – Divvy Bikeshare
 
 A complete Azure Lakehouse implementation using Delta Lake and PySpark to deliver analytics-ready datasets through a Star Schema model.
 
