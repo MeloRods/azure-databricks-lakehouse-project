@@ -1,8 +1,22 @@
 ## 📓 Notebooks
+<ul>
+  <li>
+    <a href="Notebooks/Bronze - Ingest and Querying in DBFS.ipynb" target="_blank">
+      Bronze - Ingest and Querying in DBFS.ipynb
+    </a>
+  </li>
+  <li>
+    <a href="Notebooks/Silver - Table Transformation.ipynb – Data cleansing and transformations" target="_blank">
+      Silver - Table Transformation.ipynb – Data cleansing and transformations
+    </a>
+  </li>
+  <li>
+    <a href="Notebooks/Gold - Tables Creation and Data Transformation.ipynb – Star schema (facts & dimensions)" target="_blank">
+      Gold - Tables Creation and Data Transformation.ipynb – Star schema (facts & dimensions)
+    </a>
+  </li>
+</ul>
 
-- Notebooks/Bronze - Ingest and Querying in DBFS.ipynb – Data ingestion and Bronze layer
-- Notebooks/Silver - Table Transformation.ipynb – Data cleansing and transformations
-- Notebooks/Gold - Tables Creation and Data Transformation.ipynb – Star schema (facts & dimensions)
 
 
 # Azure Databricks Lakehouse Analytics Project – Divvy Bikeshare
